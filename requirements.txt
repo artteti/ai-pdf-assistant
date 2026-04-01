@@ -6,3 +6,4 @@ langchain-community>=0.0.20
 chromadb>=0.6.0
 pypdf>=4.0.0
 openai>=1.0.0
+protobuf==3.20.3
